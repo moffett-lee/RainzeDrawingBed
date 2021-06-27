@@ -1,5 +1,5 @@
 # RainzeDrawingBed
-个人图床搭建
+个人博客图床搭建
 ### GitHub + jsDelivr + TinyPNG+ PicGo 打造稳定快速、高效免费图床
 #### 前言
 ##### Q：为什么要使用图床呢？什么是图床？
@@ -29,5 +29,13 @@ Token：前面生成的token密钥
 
 使用https://tinypng.cn/压缩你要上传的图片（如图片已经很小或你有更好的压缩工具可省略这一步）
 在PigGo的上传区上传你的图片，到相册一键复制刚刚上传的图片URL，至此，你就可以在你的文章当中愉快的插入图片啦~， 更多功能自己去探索吧~~
+
+### 效果图
+
+![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/pcGo20210627182151.png)
+
+![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/picGo20210627182213.png)
+
+
 
 
